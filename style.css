@@ -67,6 +67,9 @@ a:hover {
   position: absolute;
   left: 20%;
 }
+.profile-pic{
+  border-radius: 100%
+}
 .programming-images {
   width: 25%;
   float: left;
